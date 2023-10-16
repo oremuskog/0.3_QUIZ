@@ -1,0 +1,12 @@
+
+feature
+- creer/supprimer une question
+- savoir lorsqu'une question est repondu
+- savoir si la reponse est correcte
+
+question
+- text
+- list answer[]
+- create()
+- disable()
+- remove()
